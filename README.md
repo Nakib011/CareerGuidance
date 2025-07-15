@@ -97,4 +97,4 @@ Core features like student authentication, college filtering, and aptitude testi
 
 ---
 
-© 2025 Bungpurlu Basumatary. Internship project for educational use.
+© 2025 Nur Nakib Hassan. Internship project for educational use.
